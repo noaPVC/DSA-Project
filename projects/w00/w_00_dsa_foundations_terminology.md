@@ -118,5 +118,3 @@ Understanding these terms equips you to:
 - Practice identifying complexity in code you write
 - Diagram out recursion trees and DP tables
 - Translate problems into state-based models
-
-Let’s now move into Week 01 — where Python basics meet real problem solving.

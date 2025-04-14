@@ -141,4 +141,3 @@ By the end of this week, you should:
 - Understand multiple graph representations and when to use each
 - Implement topological sorting and detect cycles in both graph types
 - Be ready to tackle path-finding and MST algorithms in Week 8
-

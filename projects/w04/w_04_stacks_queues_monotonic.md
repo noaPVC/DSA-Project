@@ -133,4 +133,3 @@ By the end of this week, you should:
 - Understand real-world applications of monotonic stacks and queues
 - Efficiently solve sliding window problems using these tools
 - Recognize linear-time optimization patterns in dynamic sequences
-

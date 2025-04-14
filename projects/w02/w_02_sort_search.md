@@ -117,4 +117,3 @@ By the end of this week, you should:
 - Use Python sorting idioms for structured data
 - Confidently apply binary search and its variations
 - Recognize when to apply binary search to value/range problems
-

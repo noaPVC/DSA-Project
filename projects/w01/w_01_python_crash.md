@@ -124,4 +124,3 @@ By the end of this week, you should:
 - Understand core built-in data structures
 - Recognize key algorithmic patterns with arrays and strings
 - Feel prepared to tackle beginner-level LeetCode problems
-
